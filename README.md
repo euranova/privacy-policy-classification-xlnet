@@ -8,8 +8,9 @@ This work is developed within the ASGARD project *Supported and funded by the Wa
 
 ### Getting started
 1. Install NVIDIA Apex
-2. Install Fast-BERT library
-3. Run notebooks in /notebooks
+2. Install Transformers library
+3. Install Fast-BERT library
+4. Run notebooks in /notebooks
 
 ## Citation
 
